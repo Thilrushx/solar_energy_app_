@@ -1,0 +1,33 @@
+[
+    { 
+        "id": 1,
+        "name" : "Product 01",
+        "Description" : "This is product description",
+        "price" : 90,
+        "image":"/product.jpeg "
+
+    },
+    {
+        "id": 2,
+        "name" : "Product 02",
+        "Description" : "This is product description",
+        "price" : 90,
+        "image":"/product.jpeg "
+
+    },
+    {
+    "id": 3,
+    "name" : "Product 03",
+    "Description" : "This is product description",
+    "price" : 90,
+    "image":"/product.jpeg "
+    },
+    {
+        "id": 4,
+        "name" : "Product 03",
+        "Description" : "This is product description",
+        "price" : 90,
+        "image":"/product.jpeg "
+    }
+
+]
