@@ -1,10 +1,11 @@
 import Header from '../components/Organisms/Header';
 import Footer from '../components/Organisms/Footer';
+
 const AboutPage = () => {
 return (
 <>
-<Header />
-<div className="mx-5">
+    <Header />
+    <div className="mx-5">
 <h1>About Us</h1>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
